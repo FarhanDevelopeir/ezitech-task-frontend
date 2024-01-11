@@ -1,0 +1,13 @@
+.R-Course {
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+}
+.R-Course:hover .btn{
+    opacity: 1;
+    transition: opacity 0.3s ease-in-out;
+}
+.btn {
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+}
+

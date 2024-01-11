@@ -1,0 +1,27 @@
+@media (max-width : 535px) {
+    .img{
+        height: 400px;
+    }
+    .box{
+        left: 16%;
+        top: 30%;
+    }
+    .color{
+ 
+        font-size:25px;
+        margin-top: 30px;
+    }
+}
+@media (max-width : 350px) {
+  
+    .box{
+        left: 7%;
+        top: 28%;
+    }
+    .color{
+        
+        font-size: 22px;
+        margin-top: 30px;
+    }
+   
+}

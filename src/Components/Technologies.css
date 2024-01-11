@@ -1,0 +1,10 @@
+.tech-box {
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .tech-box:hover {
+    cursor: pointer;
+    transition: transform 0.3s ease-in-out;
+    transform: translateY(-10px);
+  }
+  
