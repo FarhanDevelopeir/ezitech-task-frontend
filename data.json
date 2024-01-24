@@ -1,0 +1,316 @@
+{
+    "Courses": [
+      {
+        "id": "0",
+        "name": "IOS & AND",
+        "title": "Flutter & Dart - The Complete Course With Projects",
+        "duration": "3 Months",
+        "views": "7743",
+        "o-price": "",
+        "d-price": "PKR25,000",
+        "image": "https://ezitech.org/wp-content/uploads/2023/07/DartProgramming-aptlearn-300x225.webp"
+      },
+      {
+        "id": "1",
+        "name": "Designing",
+        "title": "Adobe Illustrator Course with Projects",
+        "duration": "3 Months",
+        "views": "7038",
+        "o-price": "",
+        "d-price": "PKR35,000",
+        "image": "http://ezitech.org/wp-content/uploads/2023/07/5167842_cafe-300x225.webp"
+      },
+      {
+        "id": "2",
+        "name": "Amazon",
+        "title": "Online Arbitrage Mastermind 2.0 [Resell Products from Home]",
+        "duration": "3 Months",
+        "views": "6882",
+        "o-price": "PKR38,000",
+        "d-price": "PKR34,000",
+        "image": "http://ezitech.org/wp-content/uploads/2023/03/shutterstock_1936430215-300x225.png"
+      },
+      {
+        "id": "3",
+        "name": "Development",
+        "title": "Front-End Course With Projects",
+        "duration": "65 Days",
+        "views": "4842",
+        "o-price": "PKR20,000",
+        "d-price": "PKR18,000",
+        "image": "http://ezitech.org/wp-content/uploads/2023/07/FrontEnd-870x440-1-300x225.webp"
+      },
+      {
+        "id": "4",
+        "name": "Designing",
+        "title": "Adobe Photoshop Course ",
+        "duration": "1 Month",
+        "views": "2804",
+        "o-price": "PKR18,000",
+        "d-price": "PKR15,000",
+        "image": "http://ezitech.org/wp-content/uploads/2023/07/photoshop-course-300x225.png"
+      },
+      {
+        "id": "5",
+        "name": "Designing",
+        "title": "From Novice to expert, The Complete JavaScript Course 2022!",
+        "duration": "69h 0m",
+        "views": "1861",
+        "o-price": "",
+        "d-price": "Free",
+        "image": "http://ezitech.org/wp-content/uploads/2022/09/sta-je-javascript-300x225.jpeg"
+      },
+      {
+        "id": "6",
+        "name": "Development",
+        "title": "The Complete Guide to Flutter and Dart [2023 Edition]",
+        "duration": "42h 33m",
+        "views": "1255",
+        "o-price": "",
+        "d-price": "Free",
+        "image": "http://ezitech.org/wp-content/uploads/2022/10/flutter-use-cases-mobile-app-development-1-300x225.jpeg"
+      },
+      {
+        "id": "7",
+        "name": "Free Courses",
+        "title": "Machine Learning & Data Science Bootcamp",
+        "duration": "43h 48m",
+        "views": "1188",
+        "o-price": "",
+        "d-price": "Free",
+        "image": "http://ezitech.org/wp-content/uploads/2022/11/lqAnYIWetmy83To78KmRLYFY2Pb6INY7nVqpfrfE-300x225.jpg"
+      },
+      {
+        "id": "8",
+        "name": "Designing",
+        "title": "The Complete Guide to React (incl Hooks, React Router, Redux)",
+        "duration": "49h 24m",
+        "views": "1184",
+        "o-price": "",
+        "d-price": "Free",
+        "image": "http://ezitech.org/wp-content/uploads/2022/10/react-300x225.jpeg"
+      },
+      {
+        "id": "9",
+        "name": "Free Courses",
+        "title": "Sell Fiverr Gigs Like The Top 1% in Freelancing in 2022",
+        "duration": "4h 30m",
+        "views": "1048",
+        "o-price": "",
+        "d-price": "Free",
+        "image": "http://ezitech.org/wp-content/uploads/2022/09/cd5bdea6-d171-4b15-b911-8e1086222374_2736x1228-300x225.jpeg"
+      },
+      {
+        "id": "10",
+        "name": "Free Courses",
+        "title": "Content Marketing & Copywriting",
+        "duration": "5h 12m",
+        "views": "744",
+        "o-price": "",
+        "d-price": "Free",
+        "image": "http://ezitech.org/wp-content/uploads/2022/10/what-is-copywriter-hero-300x225.png"
+      },
+      {
+        "id": "11",
+        "name": "Free Courses",
+        "title": "YouTube ads and Google ads",
+        "duration": "64h 34m",
+        "views": "640",
+        "o-price": "",
+        "d-price": "Free",
+        "image": "http://ezitech.org/wp-content/uploads/2022/10/1294-Thumbnail.width-1200-300x225.jpg"
+      },
+      {
+        "id": "12",
+        "name": "Development",
+        "title": "The Complete Bootcamp 2022: Node.js, Express, MongoDB, and More",
+        "duration": "42h 12m",
+        "views": "637",
+        "o-price": "",
+        "d-price": "Free",
+        "image": "http://ezitech.org/wp-content/uploads/2022/09/node_green_tutorial-300x225.png"
+      },
+      {
+        "id": "13",
+        "name": "Amazon",
+        "title": "Amazon FBA Course - How to Sell on Amazon MASTERY Course",
+        "duration": "0 Hours",
+        "views": "588",
+        "o-price": "PKR35,000",
+        "d-price": "PKR27,000",
+        "image": "http://ezitech.org/wp-content/uploads/2023/03/Amazon-Retail-Arbitrage-Picture-1-300x225.png"
+      },
+      {
+        "id": "14",
+        "name": "Free Courses",
+        "title": "LinkedIn Orientation",
+        "duration": "2h 12m",
+        "views": "551",
+        "o-price": "",
+        "d-price": "Free",
+        "image": "http://ezitech.org/wp-content/uploads/2022/10/linkedin-search-630834c87e29b-sej-1520x800-1-300x225.png"
+      },
+      {
+        "id": "15",
+        "name": "Free Courses",
+        "title": "Search Engine Optimization (SEO)",
+        "duration": "15h 34m",
+        "views": "525",
+        "o-price": "",
+        "d-price": "Members Only",
+        "image": "http://ezitech.org/wp-content/uploads/2022/10/post-3-300x225.jpg"
+      },
+      {
+        "id": "16",
+        "name": "Free Courses",
+        "title": "TripAdvisor, Google My Business, and Local SEO",
+        "duration": "2h 6m",
+        "views": "489",
+        "o-price": "",
+        "d-price": "Free",
+        "image": "http://ezitech.org/wp-content/uploads/2022/10/app-tips-google-my-business-00-hero-300x225.jpg"
+      },
+      {
+        "id": "17",
+        "name": "Free Courses",
+        "title": "Definition For Digital Marketing",
+        "duration": "2h 42m",
+        "views": "483",
+        "o-price": "",
+        "d-price": "Free",
+        "image": "http://ezitech.org/wp-content/uploads/2022/10/What-is-a-digital-marketing-agency-300x225.webp"
+      },
+      {
+        "id": "18",
+        "name": "Free Courses",
+        "title": "Ads on Facebook, Instagram & Messenger",
+        "duration": "3h 42m",
+        "views": "463",
+        "o-price": "",
+        "d-price": "Free",
+        "image": "http://ezitech.org/wp-content/uploads/2022/10/Instagram-vs-Facebook-Which-is-Better-for-Video-Marketing-300x225.png"
+      },
+      {
+        "id": "19",
+        "name": "Amazon",
+        "title": "Virtual Assistant Training, a Complete Guide: Work From Home",
+        "duration": "3 Months",
+        "views": "297",
+        "o-price": "PKR27,000",
+        "d-price": "PKR25,000",
+        "image": "http://ezitech.org/wp-content/uploads/2023/03/7-tips-to-manage-amazon-virtual-assistants-and-boost-productivity-1-300x225.webp"
+      },
+      {
+        "id": "20",
+        "name": "Amazon",
+        "title": "Online Arbitrage Mastermind [Resell Products from Home]",
+        "duration": "0 Hours",
+        "views": "119",
+        "o-price": "",
+        "d-price": "PKR0",
+        "image": "http://ezitech.org/wp-content/uploads/2023/03/Amazon-Retail-Arbitrage-Picture-1-300x225.png"
+      }
+    ],
+    "RecentCourses": [
+      {
+        "id": "0",
+        "name": "Free Courses",
+        "title": "Machine Learning & Data Science Bootcamp",
+        "duration": "43h 48m",
+        "level": "Advanced",
+        "lectures":"214",
+        "price":"Free",
+        "image": "http://ezitech.org/wp-content/uploads/2022/11/lqAnYIWetmy83To78KmRLYFY2Pb6INY7nVqpfrfE-300x225.jpg",
+        "description": "Description: This is a best-selling Machine Learning and Data Science course that was been updated with the most recent trends and abilities for 20..."
+      },
+      {
+          "id": "1",
+          "name": "Free Courses",
+          "title": "TripAdvisor, Google My Business, and Local SEO",
+          "duration": "43h 48m",
+          "level": "Intermediate",
+          "lectures":"18",
+          "price":"Free",
+          "image": "http://ezitech.org/wp-content/uploads/2022/10/app-tips-google-my-business-00-hero-300x225.jpg",
+          "description": " Digital Marketing Course for beginners or freshly graduates Requirements An Internet Connection. No Previous Knowledge of Digital Marketing Is Re..."
+        },
+        {
+          "id": "2",
+          "name": "Free Courses",
+          "title": "Content Marketing & Copywriting",
+          "duration": "43h 48m",
+          "level": "Intermediate",
+          "lectures":"31",
+          "price":"Free",
+          "image": "http://ezitech.org/wp-content/uploads/2022/10/what-is-copywriter-hero-300x225.png",
+          "description": "Content Marketing and Copy Writing Course will help you to enhance your career in digital marketing Requirements An Internet Connection. No Previou..."
+        },
+        {
+          "id": "3",
+          "name": "Free Courses",
+          "title": "Search Engine Optimization (SEO)",
+          "duration": "43h 48m",
+          "level": "Advanced",
+          "lectures":"129",
+          "price":"Free",
+          "image": "http://ezitech.org/wp-content/uploads/2022/10/post-3-300x225.jpg",
+          "description": "Ezitech Learning Institute is providing beginners and new comers SEO course with certification. That will help you to polish your skills in digital..."
+        },
+        {
+          "id": "4",
+          "name": "Free Courses",
+          "title": "YouTube ads and Google ads",
+          "duration": "43h 48m",
+          "level": "Advanced",
+          "lectures":"46",
+          "price":"Free",
+          "image": "http://ezitech.org/wp-content/uploads/2022/10/1294-Thumbnail.width-1200-300x225.jpg",
+          "description": "Our organziation is allowing you guys to learn freer youtube & google ads course with certification in our organization.  That will help you to..."
+        },
+        {
+          "id": "5",
+          "name": "Free Courses",
+          "title": "LinkedIn Orientation",
+          "duration": "43h 48m",
+          "level": "Advanced",
+          "lectures":"4",
+          "price":"Free",
+          "image": "http://ezitech.org/wp-content/uploads/2022/10/linkedin-search-630834c87e29b-sej-1520x800-1-300x225.png",
+          "description": "Ezitech Learning Institute is providing Newbies and freshly graduate students Free Linkedin Orientation Course that will help you to enhance your s..."
+        },
+        {
+          "id": "6",
+          "name": "Free Courses",
+          "title": "Adds on Facebook and Instagram Messanger",
+          "duration": "43h 48m",
+          "level": "Advanced",
+          "lectures":"107",
+          "price":"Free",
+          "image": "http://ezitech.org/wp-content/uploads/2022/10/Instagram-vs-Facebook-Which-is-Better-for-Video-Marketing-300x225.png",
+          "description": "Ezitech Learning Institute is providing beginners and newcomers free social media marketing course that will help you to enhance you digital market..."
+        },
+        {
+          "id": "7",
+          "name": "Free Courses",
+          "title": "Definition For Digital Marketing",
+          "duration": "43h 48m",
+          "level": "Intermediate",
+          "lectures":"44",
+          "price":"Free",
+          "image": "http://ezitech.org/wp-content/uploads/2022/10/What-is-a-digital-marketing-agency-300x225.webp",
+          "description": "Requirements An Internet Connection. No Previous Knowledge of Marketing Is Required at All. Only Determination And a Hunger to Learn. We Will Teach..."
+        },
+        {
+          "id": "8",
+          "name": "Free Courses",
+          "title": "Sell Fiverr Gigs Like The Top 1% in Freelancing in 2022",
+          "duration": "43h 48m",
+          "level": "Intermediate",
+          "lectures":"32",
+          "price":"Free",
+          "image": "http://ezitech.org/wp-content/uploads/2022/09/cd5bdea6-d171-4b15-b911-8e1086222374_2736x1228-300x225.jpeg",
+          "description": "Free Fiverr Course With Certification  Updated for 2022: Sell more Fiverr gigs, expand your Fiverr freelance company beyond the basics, and increas..."
+        }
+    ]
+  }
+  

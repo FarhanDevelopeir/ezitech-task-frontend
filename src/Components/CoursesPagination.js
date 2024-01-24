@@ -1,18 +1,19 @@
 import axios from "axios";
 import React, { useEffect, useState } from "react";
 import "./CoursesPagination.css";
+import courseData from '../Data/Data.json'
 
 const CoursesPagination = () => {
-  const [courseData, setCourseData] = useState([]);
-  const fetchdata = async () => {
-    const res = await axios.get("http://localhost:3001/RecentCourses");
-    setCourseData(res.data);
-  };
+  // const [courseData, setCourseData] = useState([]);
+  // const fetchdata = async () => {
+  //   const res = await axios.get("http://localhost:3001/RecentCourses");
+  //   setCourseData(res.data);
+  // };
 
-  useEffect(() => {
-    fetchdata();
-  }, []);
-  const courses = courseData.map((item) => {
+  // useEffect(() => {
+  //   fetchdata();
+  // }, []);
+  const courses = courseData.RecentCourses.map((item) => {
     return (
       <div className="Course rounded-lg bg-white shadow-2xl">
         <img className="rounded-t-lg w-full" src={item.image} />

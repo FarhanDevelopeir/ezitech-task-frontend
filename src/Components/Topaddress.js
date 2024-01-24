@@ -2,7 +2,7 @@ import React from "react";
 
 const Topaddress = () => {
   return (
-    <div className="md:flex md:flex-row-reverse text-xs md:text-sm bg-blue-600 text-white justify-around p-1 ">
+    <div className="md:flex md:flex-row-reverse text-xs md:text-sm bg-blue-500 text-white justify-around p-1 ">
       <div className="flex m-auto md:w-[20%] justify-between  ">
         <svg
           class="h-5 m-auto"

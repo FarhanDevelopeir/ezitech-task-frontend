@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
 import './RecentCourses.css'
+import Coursesdata from  '../Data/Data.json'
+
 
 const RecentCourses = () => {
     const [btn, setBtn] = useState(false)
@@ -8,18 +10,13 @@ const RecentCourses = () => {
   const [currentPage, setCurrentPage] = useState(1);
   const coursesPerPage = 5;
 
-  const fetchdata = async () => {
-    const res = await axios.get("http://localhost:3001/Courses");
-    setGetCourses(res.data);
-  };
-
-  useEffect(() => {
-    fetchdata();
-  }, []);
+  
+  
+  
 
   const indexOfLastCourse = currentPage * coursesPerPage;
   const indexOfFirstCourse = indexOfLastCourse - coursesPerPage;
-  const currentCourses = getCourses.slice(
+  const currentCourses = Coursesdata.Courses.slice(
     indexOfFirstCourse,
     indexOfLastCourse
   );
@@ -29,7 +26,7 @@ const RecentCourses = () => {
   const nextPage = () => setCurrentPage((prevPage) => prevPage + 1);
   const prevPage = () => setCurrentPage((prevPage) => prevPage - 1);
 
-  const totalPages = Math.ceil(getCourses.length / coursesPerPage);
+  const totalPages = Math.ceil(Coursesdata.length / coursesPerPage);
 
   const Courses = currentCourses.map((item) => {
     return (
